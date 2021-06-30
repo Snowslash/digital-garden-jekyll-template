@@ -7,4 +7,5 @@ permalink: /
 
 
 what did he mean by this? 🤔
+
 no really what did he mean by this
