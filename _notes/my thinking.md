@@ -1,0 +1,6 @@
+
+---
+title: my thinking
+---
+
+wew
