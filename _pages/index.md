@@ -8,3 +8,5 @@ permalink: /
 
 
 It's like a blog but not very good.
+
+[[Books]]
