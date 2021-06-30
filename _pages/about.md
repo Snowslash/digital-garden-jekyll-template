@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*About Page*
+I don't think there's a direct link here so well done.
 
-I'll remember to add stuff to this eventually
+Not much to know about me.

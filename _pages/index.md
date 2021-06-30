@@ -6,6 +6,5 @@ permalink: /
 ---
 
 
-what did he mean by this? 🤔
 
-no really what did he mean by this
+It's like a blog but not very good.
