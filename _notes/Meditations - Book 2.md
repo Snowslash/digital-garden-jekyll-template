@@ -1,7 +1,7 @@
 ---
 title: Meditations - Book 2
 ---
-tags: #meditations #marcus-aurelius #stoicism 
+tags: #meditations #marcus-aurelius #stoicism
 
 
 - We were born to work together like feet, hands, and eyes, like the two tows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone to turn your back to him: these are obstructions
