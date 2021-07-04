@@ -15,6 +15,7 @@ tags: #books #index
 - [[The Power of Geography]]
 - [[The Prince]]
 - [[Thinking, Fast and Slow]]
+- [[Letters from a Stoic]]
 
 
 #### Books being Read
