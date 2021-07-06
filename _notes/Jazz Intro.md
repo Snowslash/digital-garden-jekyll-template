@@ -6,7 +6,7 @@ tags: #jazz #music
 
 
 #### Intro to Chords
-- Major chord are notes 1-3-5 of tje [[Major Scale]]
+- Major chord are notes 1-3-5 of the [[Major Scale]]
 	- Most chord extensions are odd numbers because they're built in thirds
 - Jazz has a focus on 7th chords
 	- 1-3-5-7

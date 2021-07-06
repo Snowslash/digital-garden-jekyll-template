@@ -10,8 +10,9 @@ tags: #author #marcus-aurelius
 
 
 - Roman emperor
-	- From 7 March 161 to 17 March 180
+	- From 7 March 161 AD to 17 March 180 AD
 	- His reign was marked by military conflict and a plague
 		- Parthian Empire
 		- Kingdom of Armenia
 		- Macromannic Wars
+- Wrote the [[Meditations]]

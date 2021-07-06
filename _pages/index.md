@@ -7,7 +7,7 @@ permalink: /
 
 #### This place is not a place of honour... no highly esteemed deed is commemorated here... nothing valued is here.
 
-Welcome to my blog!
+Welcome to my digital garden!
 
 
 📚 [[Books]]
