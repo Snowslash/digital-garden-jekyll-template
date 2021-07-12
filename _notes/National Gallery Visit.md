@@ -20,4 +20,4 @@ I recently (08/07/21) visited the National Gallery.
 I figured it might be better to record the paintings I found interesting here (in higher quality) instead of taking a photo at the gallery.
 
 
-![[Saints Fabian and Sebastian.jpg]]
+![Saints](/_images/SaintsFabianandSebastian.jpg)
