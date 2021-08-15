@@ -24,4 +24,4 @@ I recently (08/07/21) visited the National Gallery.
 I figured it might be better to record the paintings I found interesting here (in higher quality) instead of taking photos at the gallery.
 
 
-<img src="assets\images\SaintsFabianandSebastian.jpg"/>
+<img src="assets\images\SaintsFabianandSebastian"/>
