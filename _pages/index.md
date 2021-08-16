@@ -11,3 +11,4 @@ Welcome to my digital garden/blog!
 
 
 📚 [[Books]]
+📔 [[Journal]]
