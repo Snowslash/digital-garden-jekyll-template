@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 
-#### This place is not a place of honour... no highly esteemed deed is commemorated here... nothing valued is here.
+#### [[Long-time Nuclear Waste Warning Messages|This place is not a place of honour... no highly esteemed deed is commemorated here... nothing valued is here.]]
 
-Welcome to my digital garden/blog!
+Welcome to my corner of the internet!
 
 
 📚 [[Books]]
