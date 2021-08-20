@@ -48,6 +48,3 @@ tags: #misc #under-construction
 		- Create a religion to preserve the knowledge through rituals and myths
 		- Genetically modify domestic cats so that they change colour in the presence of dangerous levels of radiation and then create folk-lore/[catchy songs](https://emperorx.bandcamp.com/album/10000-year-earworm-to-discourage-settlement-near-nuclear-waste-repositories) about moving away from sites where this happens
 			- In a similar fashion to this: Atomic Flowers which are genetically modified to only grow in areas close to where radioactive waste is buried which also have data about the location and contents encoded in its DNA
-
-- Why have I written about this?
-	- There is something weirdly hopeful about leaving a message that is supposed to last over 10,000 years and still be understood, it may end up being one of the last remnants of humanity if it succeeds 
