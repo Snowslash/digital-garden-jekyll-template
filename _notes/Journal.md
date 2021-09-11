@@ -1,6 +1,6 @@
 ---
 title: Journal
 ---
-tags: #journal 
+tags: #journal #index
 
 [[National Gallery Visit]]
