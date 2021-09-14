@@ -15,7 +15,7 @@ Almost 30 years later [we had another one](https://www.youtube.com/watch?v=YXE3K
 
 > We are all, as Huxley says someplace, Great Abbreviators, meaning that none of us has the wit to know the whole truth, the time to tell it if we believed we did, or an audience so gullible as to accept it
 
- In the era of instant news and algorithmically delivered content perhaps we are great abbreviators not out of choice but out of necessity. There is often just not enough time to find out the whole truth before the news cycle finishes and the next story breaks and quite often the whole truth is obscured and the waters deliberately muddied to make it a little harder to find.
+ In the era of instant news and algorithmically delivered content makes us even greater abbreviators. There is often just not enough time to find out the whole truth before the news cycle finishes and the next story breaks and quite often the whole truth is obscured and the waters deliberately muddied to make it a little harder to find.
 
 > As the influence of print wanes, the content of politics, religion, education and anything else that comprises public business must change and be recast in terms that are more suitable to television
 
