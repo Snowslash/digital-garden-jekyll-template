@@ -10,5 +10,5 @@ tags: #meditations #marcus-aurelius #stoicism
 - To stop talking about what the good man is like, and just be one.
 - Stop whatever you're doing for a moment and ask yourself: Am I afraid of death because I won't be able to do this anymore?
 - When faced with people's bad behaviour, turn around and ask when have you acted like that. Your anger will subside as soon as you recognise that they acted under compulsion
-- Learn to ask of all actions, "Why are the doing that?" Starting with your own.
+- Learn to ask of all actions, "Why are the doing that?" Starting with your own
 

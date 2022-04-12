@@ -28,7 +28,7 @@ An introductory text to [[Stoicism]] written by a roman emperor during a period 
 - [[Meditations - Book 12|Book 12]]
 
 #### 📘 Further Lines of Enquiry:
-- [[The Enchiridion]] - written by another stoic
+- [[The Enchiridion]] - written by another stoic.
 - [[Letters from a Stoic]] 
 - [[A Guide to the Good Life]]
 - [[The Obstacle is the Way]]

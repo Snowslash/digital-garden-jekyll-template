@@ -56,7 +56,7 @@ I figured it might be better to record the paintings I found interesting here (i
 #### Landscape with the Rest on the Flight into Egypt by Pierre Patel
 ![Flight into Egypt](https://upload.wikimedia.org/wikipedia/commons/e/ef/Pierre_I_Patel_%28c.1605-1676%29_-_Landscape_with_the_Rest_on_the_Flight_into_Egypt_-_NG6513_-_National_Gallery.jpg)
 - The scene depicts Mary, Joeseph and Jesus fleeing into Egypt to escape persecution
-- The ruins on the right are a Roman pagan temple
+- The ruins on the right are a Roman pagan temple.
 
 #### Seaport with the Embarkation of Saint Ursula by Claude
 ![Embarkation of St Ursula](https://upload.wikimedia.org/wikipedia/commons/1/10/Claude_Lorrain_-_Seaport_with_the_Embarkation_of_Saint_Ursula.jpg)
