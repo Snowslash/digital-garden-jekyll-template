@@ -8,6 +8,7 @@ tags: #chess #index
 ### Openings
 - White
 	- [[Vienna Game]]
+	- [[English Opening]]
 - Black
 	- [[Pirc Defence]]
 	- [[King's Indian Defence]]
